@@ -149,7 +149,7 @@ const Details = () => {
             </button>
           </form>
           <div class="p-10">
-            <ul class="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-10">
+            <ul class="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-4 gap-10">
               {movies.map((movie) => (
                 <li
                   key={movie.imdbID}
