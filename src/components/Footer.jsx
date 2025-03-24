@@ -6,46 +6,46 @@ export default function Footer() {
       <div class="container mx-auto px-4">
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
               <div>
-                  <h4 class="text-lg font-bold mb-4">Alcohol advice</h4>
+                <h4 class="text-lg font-bold mb-4">About Guvigeekers</h4>
                   <ul class="space-y-2">
-                      <li><a href="#" class="text-gray-300 hover:text-white">Alcohol facts</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Health effects</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Low risk drinking</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Cutting down</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Alcohol and relationships</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Our mission</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Our work</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">News & blog</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">FAQ ?</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Careers</a></li>
                   </ul>
               </div>
               
               <div>
                   <h4 class="text-lg font-bold mb-4">Support services</h4>
                   <ul class="space-y-2">
-                      <li><a href="#" class="text-gray-300 hover:text-white">Drinkline</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Drinkcoach</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Find local support</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Alcohol treatment</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Support for families</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Payment & Refund</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Booking Queries</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Cancellation</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Event Enquiry</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Offers & Discounts</a></li>
                   </ul>
               </div>
               
               <div>
-                  <h4 class="text-lg font-bold mb-4">Tools & resources</h4>
+                  <h4 class="text-lg font-bold mb-4">Events in City</h4>
                   <ul class="space-y-2">
-                      <li><a href="#" class="text-gray-300 hover:text-white">Unit calculator</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Drink compare</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Drink free days app</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Self assessment</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Resources for professionals</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Chennai </a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Hyderabad Events</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Banglore Events</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Kochi Events</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Pondicherry Events</a></li>
                   </ul>
               </div>
               
               <div>
-                  <h4 class="text-lg font-bold mb-4">About Guvigeekers</h4>
+                  <h4 class="text-lg font-bold mb-4">Countries</h4>
                   <ul class="space-y-2">
-                      <li><a href="#" class="text-gray-300 hover:text-white">Our mission</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Our work</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">News & blog</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Contact us</a></li>
-                      <li><a href="#" class="text-gray-300 hover:text-white">Careers</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">India</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">USA</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">UK</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">UAE</a></li>
+                      <li><a href="#" class="text-gray-300 hover:text-white">Australia</a></li>
                   </ul>
               </div>
           </div>
