@@ -185,7 +185,7 @@ const Details = () => {
                     </p>
                   </div>
 
-                  <div class="px-6 py-3 flex flex-col md:flex-row xl:flex-row items-center justify-between bg-gray-100">
+                  <div class="px-6 py-3 flex flex-col sm:flex-row xl:flex-row items-center justify-between bg-gray-100">
                     <button
                       class={
                         favorites.some((fav) => fav.imdbID === movie.imdbID)
